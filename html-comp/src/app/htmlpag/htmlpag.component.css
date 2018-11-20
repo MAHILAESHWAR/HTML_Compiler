@@ -1,0 +1,38 @@
+button{
+    height:30px;
+    width:75px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 4px;
+    outline: none;
+    
+}
+body{
+     margin: 10px;
+    padding: 10px; 
+}
+textarea{
+     margin-left: 10px;
+     outline: none;
+     border-radius: 5px; 
+     color: white;
+     background-color: #282828;
+} 
+h2{
+    background-color: lightsalmon;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+button.compbtn:hover{
+    background-color: lightgreen;
+}
+button.clrbtn:hover{
+    background-color: #dd0202;
+    color: white;
+}
+div.ques{
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellowgreen; */
+}
